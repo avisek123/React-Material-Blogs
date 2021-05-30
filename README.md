@@ -1,2 +1,5 @@
 # React-Material-Blogs
-![Screenshot (152)](https://user-images.githubusercontent.com/62586380/120109470-39d5f100-c187-11eb-9660-1eddad01df8b.png)
+
+![Screenshot (153)](https://user-images.githubusercontent.com/62586380/120109563-9802d400-c187-11eb-9481-b5af643922cc.png)
+
+
